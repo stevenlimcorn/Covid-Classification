@@ -1,4 +1,4 @@
-# covid-detection
+# Covid-Detection
 
 ### Introduction
 
