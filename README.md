@@ -120,3 +120,11 @@ The model is available in the main directory.
 
 Using the test dataset with 2117 images, the model achieve a test accuracy of 95.8%. The confusion matrix is as shown below.
 
+<img width=50% src="https://user-images.githubusercontent.com/67994195/123545864-a13e8b00-d79d-11eb-921d-bfb0d9b34c03.png">
+
+### Conclusion
+
+Although I haven't try using any of the ResNet models, ViT gives a pretty decent compared to other models in kaggle such as ResNet and efficient-net.
+
+Just in case you guys wanted to read more on Vision Transformer, click [here](https://arxiv.org/abs/2010.11929) to read the paper.
+
