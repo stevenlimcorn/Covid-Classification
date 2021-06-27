@@ -114,7 +114,7 @@ The model that with the lowest validation loss is at epoch 11. Hence, the model 
 import torch
 model = torch.load(PATH)
 ```
-The model is available in the main directory.
+Click [here](https://drive.google.com/file/d/1-0Lxrp20Ls1aEVclor2l0GeTO3XCKSQv/view?usp=sharing) to download model.
 
 ### Result Analysis
 
