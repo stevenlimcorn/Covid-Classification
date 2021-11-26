@@ -1,4 +1,4 @@
-# Covid-Detection
+# Covid-Classification
 
 ### Introduction
 
