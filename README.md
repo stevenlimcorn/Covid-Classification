@@ -1,8 +1,9 @@
 # Covid-Classification
+A ViT based image classification model that classifies chest x-ray images as lung opacity, normal, viral pneumonia or COVID-19 positive.
 
-### Introduction
+### Dataset
 
-This is an image classification model that classifies chest x-ray images as lung opacity, normal, viral pneumonia or COVID-19 positive. The data is retrieved from kaggle, created by [tawsifurrahman](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database). The dataset used has 6012, 10192, 1345, 3616 number of images for lung opacity, normal, viral pneumonia, COVID-19 chest x-ray images respectively. This is a ViT based model which is pretrained on Imagenet dataset, with a specification of image size 224 and 16 patches. The model is transfer learn to match the dataset given by [tawsifurrahman](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database). The overall test accuracy is 95.8%, with a test loss of 0.1243.
+The data is retrieved from kaggle, created by [tawsifurrahman](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database). The dataset used has 6012, 10192, 1345, 3616 number of images for lung opacity, normal, viral pneumonia, COVID-19 chest x-ray images respectively. This is a ViT based model which is pretrained on Imagenet dataset, with a specification of image size 224 and 16 patches. The model is transfer learn to match the dataset given by [tawsifurrahman](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database). The overall test accuracy is 95.8%, with a test loss of 0.1243.
 
 ### Code
 
